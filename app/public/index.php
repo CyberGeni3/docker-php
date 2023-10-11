@@ -1,4 +1,5 @@
 <?php # /app/public/index.php
+    echo 'Hello world!';
 ?>
 
 <!doctype html>
